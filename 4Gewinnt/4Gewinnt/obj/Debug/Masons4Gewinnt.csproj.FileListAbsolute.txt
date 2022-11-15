@@ -1,0 +1,11 @@
+C:\Users\intr\Documents\Mason\Masons4Gewinnt\Masons4Gewinnt\obj\Debug\Masons4Gewinnt.csproj.AssemblyReference.cache
+C:\Users\intr\Documents\Mason\Masons4Gewinnt\Masons4Gewinnt\obj\Debug\Masons4Gewinnt.csproj.SuggestedBindingRedirects.cache
+C:\Users\intr\Documents\Mason\Masons4Gewinnt\Masons4Gewinnt\obj\Debug\Masons4Gewinnt.Form1.resources
+C:\Users\intr\Documents\Mason\Masons4Gewinnt\Masons4Gewinnt\obj\Debug\Masons4Gewinnt.Properties.Resources.resources
+C:\Users\intr\Documents\Mason\Masons4Gewinnt\Masons4Gewinnt\obj\Debug\Masons4Gewinnt.csproj.GenerateResource.cache
+C:\Users\intr\Documents\Mason\Masons4Gewinnt\Masons4Gewinnt\obj\Debug\Masons4Gewinnt.csproj.CoreCompileInputs.cache
+C:\Users\intr\Documents\Mason\Masons4Gewinnt\Masons4Gewinnt\bin\Debug\Masons4Gewinnt.exe.config
+C:\Users\intr\Documents\Mason\Masons4Gewinnt\Masons4Gewinnt\bin\Debug\Masons4Gewinnt.exe
+C:\Users\intr\Documents\Mason\Masons4Gewinnt\Masons4Gewinnt\bin\Debug\Masons4Gewinnt.pdb
+C:\Users\intr\Documents\Mason\Masons4Gewinnt\Masons4Gewinnt\obj\Debug\Masons4Gewinnt.exe
+C:\Users\intr\Documents\Mason\Masons4Gewinnt\Masons4Gewinnt\obj\Debug\Masons4Gewinnt.pdb
